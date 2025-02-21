@@ -1,0 +1,11 @@
+String Reversal Tool:
+
+Create a program that takes a string input from the user and reverses it.
+Store the original string and the reversed string in a list and display both.
+Count the number of vowels in the original string.
+
+Hint: input() function can be used to get user input.
+Hint: Use a list to store the original and reversed strings.
+Hint: Use a for loop to iterate through the original string and count the vowels.
+Hint: Use the reverse() method to reverse the string.
+Hint: Use the count() method to count the number of vowels.

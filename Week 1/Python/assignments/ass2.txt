@@ -1,0 +1,8 @@
+Simple Contact Book:
+
+Create a program that allows the user to store names and phone numbers in a list of dictionaries.
+The user can add a new contact and view all contacts.
+Allow the user to search for a contact by name.
+
+Hint: input() function can be used to get user input.
+Hint: Use a list of dictionaries to store contacts.

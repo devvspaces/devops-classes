@@ -1,0 +1,5 @@
+Favorite Foods List:
+
+Create a program that allows the user to input their favorite foods.
+Store these foods in a list and then display them back to the user.
+Allow the user to remove a food from the list and display the updated list.
