@@ -1,0 +1,43 @@
+Python Adventure Game Assignment
+Create a text-based adventure game where the player explores rooms in a haunted mansion. The player can collect items, solve puzzles, and try to escape.
+Requirements:
+
+Create a dictionary of rooms where:
+
+Each key is a room name
+Each value is another dictionary containing:
+
+A room description
+Available exits (as a list)
+Items in the room (as a list)
+Any special features (as a string)
+
+
+
+
+Create a player inventory as a list to store collected items
+Use a while loop to keep the game running until the player either escapes or quits
+For each turn:
+
+Display the current room description
+Display available exits
+Display visible items
+Ask for player input (move direction, take item, use item, etc.)
+
+
+Use if-else statements to handle different player commands
+Use a for loop in at least one of these ways:
+
+To display all items in inventory
+To check if a required item exists in inventory
+To display all available exits
+
+
+Include at least one puzzle that requires specific items or actions to solve
+
+Example Game Elements:
+
+A locked door requiring a key
+A dark room requiring a flashlight
+A hungry ghost that needs a specific food item
+A riddle that gives a hint when solved
