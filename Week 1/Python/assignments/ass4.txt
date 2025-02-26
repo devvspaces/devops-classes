@@ -13,8 +13,6 @@ Items in the room (as a list)
 Any special features (as a string)
 
 
-
-
 Create a player inventory as a list to store collected items
 Use a while loop to keep the game running until the player either escapes or quits
 For each turn:
